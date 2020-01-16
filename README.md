@@ -1,6 +1,5 @@
 Dev Store
 ___
 
-- Gatsby
+- Gatsby | Nextjs
 - CMS
-- Nextjs
