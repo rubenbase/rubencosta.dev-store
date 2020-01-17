@@ -3,3 +3,7 @@ ___
 
 - Gatsby | Nextjs
 - CMS
+
+# Things to sell
+
+- Courses
