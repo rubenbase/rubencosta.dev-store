@@ -6,4 +6,5 @@ ___
 
 # Things to sell
 
+- Merch
 - Courses
