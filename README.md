@@ -8,3 +8,5 @@ ___
 
 - Merch
 - Courses
+
+# Affiliates Codes
