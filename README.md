@@ -10,3 +10,5 @@ ___
 - Courses
 
 # Affiliates Codes
+
+# Promo Codes
